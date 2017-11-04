@@ -1,0 +1,2 @@
+import wardball
+wardball.main()
